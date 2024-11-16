@@ -1,0 +1,30 @@
+[
+    {
+      "id_producto": "1",
+      "calificación": 4,
+      "comentario": "Buen producto",
+      "fecha": "2023-05-01",
+      "nombre_usuario": "Usuario1"
+    },
+    {
+      "id_producto": "2",
+      "calificación": 5,
+      "comentario": "Excelente producto",
+      "fecha": "2023-05-02",
+      "nombre_usuario": "Usuario2"
+    },
+    {
+      "id_producto": "1",
+      "calificación": 3,
+      "comentario": "Producto promedio",
+      "fecha": "2023-05-03",
+      "nombre_usuario": null
+    },
+    {
+      "id_producto": "3",
+      "calificación": 5,
+      "comentario": null,
+      "fecha": "2023-05-04",
+      "nombre_usuario": "Usuario3"
+    }
+  ]

@@ -1,0 +1,70 @@
+[
+    {
+      "nombre": "Vendedor 1",
+      "documento": "987654321",
+      "fecha_nacimiento": "1980-05-15",
+      "dirección": {
+        "departamento": "Bogotá",
+        "ciudad": "Bogotá D.C.",
+        "dirección": "Carrera 123"
+      },
+      "correo_electrónico": "vendedor1@example.com",
+      "teléfono": "9876543210",
+      "redes_sociales": {
+        "twitter": "vendedor1",
+        "facebook": "vendedor1",
+        "instagram": "vendedor1"
+      }
+    },
+    {
+      "nombre": "Vendedor 2",
+      "documento": "123456789",
+      "fecha_nacimiento": "1975-10-20",
+      "dirección": {
+        "departamento": "Antioquia",
+        "ciudad": "Medellín",
+        "dirección": "Calle 456"
+      },
+      "correo_electrónico": "vendedor2@example.com",
+      "teléfono": "1234567890",
+      "redes_sociales": {
+        "twitter": null,
+        "facebook": "vendedor2",
+        "instagram": null
+      }
+    },
+    {
+      "nombre": "Vendedor 3",
+      "documento": "543216789",
+      "fecha_nacimiento": "1982-03-12",
+      "dirección": {
+        "departamento": "Valle del Cauca",
+        "ciudad": "Cali",
+        "dirección": "Avenida 789"
+      },
+      "correo_electrónico": "vendedor3@example.com",
+      "teléfono": "5432167890",
+      "redes_sociales": {
+        "twitter": "vendedor3",
+        "facebook": "vendedor3",
+        "instagram": "vendedor3"
+      }
+    },
+    {
+      "nombre": "Vendedor 4",
+      "documento": "987654123",
+      "fecha_nacimiento": "1990-12-01",
+      "dirección": {
+        "departamento": "Atlántico",
+        "ciudad": "Barranquilla",
+        "dirección": "Calle 987"
+      },
+      "correo_electrónico": "vendedor4@example.com",
+      "teléfono": "9876541230",
+      "redes_sociales": {
+        "twitter": "vendedor4",
+        "facebook": null,
+        "instagram": "vendedor4"
+      }
+    }
+  ]

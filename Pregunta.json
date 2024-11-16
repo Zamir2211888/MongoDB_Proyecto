@@ -1,0 +1,73 @@
+[
+    {
+      "id_comprador": "1",
+      "pregunta": "¿Cuál es la duración de la batería?",
+      "fecha": "2023-05-01",
+      "nombre_comprador": "Comprador1",
+      "pregunta_anónima": false,
+      "interacciones": [
+        {
+          "nombre_vendedor": "Vendedor1",
+          "comentario": "La duración de la batería es de aproximadamente 10 horas.",
+          "fecha": "2023-05-02"
+        },
+        {
+          "nombre_vendedor": "Vendedor1",
+          "comentario": "¿Tienes alguna otra pregunta?",
+          "fecha": "2023-05-03"
+        }
+      ]
+    },
+    {
+      "id_comprador": "2",
+      "pregunta": "¿El producto viene con garantía?",
+      "fecha": "2023-05-02",
+      "nombre_comprador": null,
+      "pregunta_anónima": true,
+      "interacciones": [
+        {
+          "nombre_vendedor": "Vendedor2",
+          "comentario": "Sí, el producto cuenta con una garantía de 1 año.",
+          "fecha": "2023-05-03"
+        }
+      ]
+    },
+    {
+      "id_comprador": "3",
+      "pregunta": "¿El envío es gratuito?",
+      "fecha": "2023-05-04",
+      "nombre_comprador": "Comprador3",
+      "pregunta_anónima": false,
+      "interacciones": [
+        {
+          "nombre_vendedor": "Vendedor3",
+          "comentario": "El envío es gratuito para compras superiores a $50.",
+          "fecha": "2023-05-05"
+        },
+        {
+          "nombre_vendedor": "Vendedor3",
+          "comentario": "¿Hay algo más en lo que pueda ayudarte?",
+          "fecha": "2023-05-06"
+        },
+        {
+          "nombre_vendedor": "Vendedor3",
+          "comentario": "Quedo a tu disposición para cualquier otra consulta.",
+          "fecha": "2023-05-07"
+        }
+      ]
+    },
+    {
+      "id_comprador": "1",
+      "pregunta": "¿El producto viene en diferentes colores?",
+      "fecha": "2023-05-05",
+      "nombre_comprador": "Comprador1",
+      "pregunta_anónima": false,
+      "interacciones": [
+        {
+          "nombre_vendedor": "Vendedor1",
+          "comentario": "Sí, el producto está disponible en negro, blanco y azul.",
+          "fecha": "2023-05-06"
+        }
+      ]
+    }
+  ]
