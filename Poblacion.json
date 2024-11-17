@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "nombre": "Producto A",
+      "descripción": "Producto de prueba A",
+      "imagen": "productoA.jpg",
+      "dimensiones": { "alto": 10, "ancho": 5, "largo": 3 },
+      "categoría": "Electrónica",
+      "precio": 99.99,
+      "fecha_publicación": "2023-01-01T12:00:00Z",
+      "fecha_actualización": "2023-01-01T12:00:00Z",
+      "cantidad_en_stock": 10,
+      "disponible_para_la_venta": true
+    },
+    {
+      "id": 2,
+      "nombre": "Producto B",
+      "descripción": "Producto de prueba B",
+      "imagen": "productoB.jpg",
+      "dimensiones": { "alto": 12, "ancho": 6, "largo": 4 },
+      "categoría": "Hogar",
+      "precio": 49.99,
+      "fecha_publicación": "2023-02-01T12:00:00Z",
+      "fecha_actualización": "2023-02-01T12:00:00Z",
+      "cantidad_en_stock": 20,
+      "disponible_para_la_venta": true
+    },
+    {
+      "id": 3,
+      "nombre": "Producto C",
+      "descripción": "Producto de prueba C",
+      "imagen": "productoC.jpg",
+      "dimensiones": { "alto": 8, "ancho": 4, "largo": 3 },
+      "categoría": "Juguetes",
+      "precio": 19.99,
+      "fecha_publicación": "2023-03-01T12:00:00Z",
+      "fecha_actualización": "2023-03-01T12:00:00Z",
+      "cantidad_en_stock": 15,
+      "disponible_para_la_venta": true
+    }
+
+  ]
+  
